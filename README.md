@@ -1,8 +1,10 @@
 # projFinicia_2023
  Projeto Finicia 2023 - elaborado na disciplina de Empreendedoriso para testar a viabilidade financeira do nosso projeto
+** Projeto em grupo desenvolvido no ano lectivo 2021/2022 **
 
-** Projeto desenvolvido no ano 2021/2022 **
+Seguem:
+Finicia.xls que seria um excel fornecida pela IAPMEI que faz uma eleboração detalhada do plano de um negócio;
 
-Ref_empreendedorismo.txt - lista de referências usadas para que os dados aqui apresentados (finicia.xsl) no projeto não sejam ficticios, mas sim o  mais real possivel
+Uma simulação no IKEA para termos uma nocão do valor dos investimento com os materiais.
 
-As fotos seguem como anexo de algumas simulações já feitas no mercado e com validação das mesmas entidates
+Um relatório que contém todo o plano de fiabilidade e todos os aspectos analisados no nosso projeto
